@@ -1,6 +1,4 @@
-# OOPS-CAPSTONE-PROJECT
-Library Management System
-# Library_System_Project-Python
+# Library_System_Project-Java
 A simple and functional Library Management System Implemented in Java Swing
 # Installation:
 1. Clone repository 
